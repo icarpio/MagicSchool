@@ -1,0 +1,14 @@
+C:\Users\Alumno\Desktop\CURSO\NET\MagicSchool\MagicSchool\bin\Debug\MagicSchool.exe.config
+C:\Users\Alumno\Desktop\CURSO\NET\MagicSchool\MagicSchool\bin\Debug\MagicSchool.exe
+C:\Users\Alumno\Desktop\CURSO\NET\MagicSchool\MagicSchool\bin\Debug\MagicSchool.pdb
+C:\Users\Alumno\Desktop\CURSO\NET\MagicSchool\MagicSchool\obj\Debug\MagicSchool.csprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\CURSO\NET\MagicSchool\MagicSchool\obj\Debug\MagicSchool.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\CURSO\NET\MagicSchool\MagicSchool\obj\Debug\MagicSchool.exe
+C:\Users\Alumno\Desktop\CURSO\NET\MagicSchool\MagicSchool\obj\Debug\MagicSchool.pdb
+C:\Users\YVAN\Desktop\MagicSchool\MagicSchool\obj\Debug\MagicSchool.csprojAssemblyReference.cache
+C:\Users\YVAN\Desktop\MagicSchool\MagicSchool\obj\Debug\MagicSchool.csproj.CoreCompileInputs.cache
+C:\Users\YVAN\Desktop\MagicSchool\MagicSchool\obj\Debug\MagicSchool.exe
+C:\Users\YVAN\Desktop\MagicSchool\MagicSchool\obj\Debug\MagicSchool.pdb
+C:\Users\YVAN\Desktop\MagicSchool\MagicSchool\bin\Debug\MagicSchool.exe.config
+C:\Users\YVAN\Desktop\MagicSchool\MagicSchool\bin\Debug\MagicSchool.exe
+C:\Users\YVAN\Desktop\MagicSchool\MagicSchool\bin\Debug\MagicSchool.pdb
